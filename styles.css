@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+.myimage {
+	width:400px;
+}
+.price, .description, {
+	padding:10px;
+	color: lightgray;
+	text-align:center;
+}
+.press {
+	padding: 10px;
+	border:1px solid black;
+	border-radius: 12%;
+	background-color: green;
+	color: lightgray;
+	text-align:center;
+	cursor: pointer;
+	
+}
